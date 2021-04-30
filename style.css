@@ -1,0 +1,132 @@
+body{
+    background-color:#F3F1FF;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.navbar-brand > .img-fluid{
+    max-width: 10%;
+}
+p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+}
+.navbar-brand  > p{
+    color:#fff;
+}
+
+
+
+
+.nav-img{
+    width:16%;
+}
+
+
+
+.palyer-main{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.player-header h2{
+    font-weight: bold;
+    color:#562EFF;
+}
+.row {
+    --bs-gutter-y: 40px;
+}
+.single-player img{
+    width:20%;
+}
+.single-player p{
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog-header h2{
+    color:#562EFF;
+    font-weight:bold;
+}
+.blog-content h2{
+    font-weight: bold;
+}
+.blog-content p span{
+    color:#562EFF;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+.card-body h5{
+    font-weight:bold;
+}
+
+.card-body p{
+    color:#ED8D49;
+}
+.card{
+    padding:5%;
+}
+.card-body{
+    padding: 0%;
+    padding-right: 19%;
+}
+
+
+
+
+
+
+
+.courch-bg{
+    background-color: #FFFFFF;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.courch-header h2{
+    color:#562EFF;
+    font-weight:bold;
+}
+.card{
+    box-shadow: 0px 0px 15px #d8d8d8;
+}
+.card-footer {
+    padding:0%;
+    background-color:#FFFFFF;
+    border:none;
+}
+.card-footer .right {
+   background-color: #FFE4E8;
+   padding: 2% 3%;
+   border-radius: 35px;
+}.card-footer .right p {
+   color:#EC4458;
+   font-weight:bold;
+}
+.last-courch .card{
+    border:0px;
+    border-radius: 10px;
+}
